@@ -1,0 +1,24 @@
+
+平均半径误差：
+    The 1 landmark mse loss is 1.03298895361645
+    The 2 landmark mse loss is 1.8014799611202745
+    The 3 landmark mse loss is 1.8889298525774447
+    The 4 landmark mse loss is 1.426990452640209
+    The 5 landmark mse loss is 2.402070893937202
+平均标准差：
+    The std of 1 landmark is 3.6700047267114506
+    The std of 2 landmark is 4.280766395892965
+    The std of 3 landmark is 2.580843039762504
+    The std of 4 landmark is 1.787741340330009
+    The std of 5 landmark is 4.5428414231631375
+
+平均半径误差: 1.7104920227783151%
+平均标准差: 3.5321173830920944
+
+
+acc:0.8535031847133758
+pec:0.9440559440559441
+rec:0.7803468208092486
+f1:0.8544303797468354
+
+数据：466例

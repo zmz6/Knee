@@ -1,0 +1,17 @@
+MODEL:
+  NAME: 'hourglass'
+  PRETRAINED: 'models/pytorch/imagenet/resnet50-19c8e357.pth'
+  INIT_WEIGHTS: False
+  IMAGE_SIZE:
+  - 512
+  - 512
+  HEATMAP_SIZE:
+  - 128
+  - 128
+  SIGMA: 3
+  NUM_JOINTS: 18
+  TARGET_TYPE: 'gaussian'
+  EXTRA:
+    NUM_FEATURES: 256
+    NUM_STACKS: 4
+    NUM_BLOCKS: 1

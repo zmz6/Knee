@@ -1,0 +1,18 @@
+/home/liushenyao/code/Knee/model/new_knee_5/Fully_Supervised_iter_10_labeled/nl_unet_size[256, 256]_b2_iter15000_lossMSE_dropout0.5_sigma3/iter_14950.pth
+The test dataset total 80 samples
+The 1 landmark mse loss is 1.077205323057036
+The 2 landmark mse loss is 1.4926908345422272
+The 3 landmark mse loss is 1.4032578730049363
+The 4 landmark mse loss is 1.228263428196373
+The 5 landmark mse loss is 3.2644580899856495
+1.6931751097572445
+[0.995  0.9975 0.9975 0.9975]
+ave: 1.6931751097572443%
+std: 3.38038444860671
+[0.995  0.9975 0.9975 0.9975]
+The test performance is 1.693175
+The std of 1 landmark is 1.1505385873337726
+The std of 2 landmark is 6.637488681119134
+The std of 3 landmark is 2.282324983909979
+The std of 4 landmark is 1.4097228856573043
+The std of 5 landmark is 1.896164990552238

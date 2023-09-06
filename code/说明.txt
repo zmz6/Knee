@@ -1,0 +1,24 @@
+pytorch 深度学习
+1. dataset
+2. model
+3. loss
+4. optz
+
+opencv 数字图像处理的框架
+
+
+conda 重新配置环境
+
+课程 ： https://www.bilibili.com/video/BV1V54y1B7K3?spm_id_from=333.999.0.0
+
+基于深度学习的股骨滑车自动诊断
+
+
+
+1. 实验结果
+2. 分析实验数据
+    a. 预测误差 （mm） *
+    b. 预测准确度 （f1）
+    c. 距离，角度的误差 *
+        normal
+        3cm
